@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.Orbit" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary_button</item>
+        <item name="colorPrimaryVariant">@color/primary_button_dark</item>
+        <item name="colorOnPrimary">@color/button_text</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+</resources>

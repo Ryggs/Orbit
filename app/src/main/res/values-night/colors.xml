@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark Colors -->
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#CCCCCC</color>
+    <color name="home_background">#121212</color>
+    <color name="onboarding_background">#1E1E1E</color>
+    <color name="surface_color">#1E1E1E</color>
+</resources>

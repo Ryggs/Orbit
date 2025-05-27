@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Orbit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Welcome to Orbit Home Launcher!\n\nThis app will become your new home screen.</string>
+    <string name="welcome_to_your_new_home_screen">Welcome to your new home screen!</string>
+    <string name="continue_text">To continue, set the app as your default home</string>
+    <string name="thanks_text">Thanks for setting Orbit as the default home</string>
+    <string name="home_launcher">Home Launcher</string>
+    <string name="Home_icon">🏠</string>
+    <string name="hello">👋</string>
+    <string name="cont">Continue</string>
+    <string name="get_started">Let’s Get Started</string>
+    <string name="tap_tap">Tap Continue and select this app from the list of available home apps.</string>
+    <string name="setting">⚙️</string>
+    <string name="finish">Finish</string>
+    <string name="complete_setup">Setup complete! Press the home button to start using your new launcher.</string>
+    <string name="hooray">🎉</string>
+</resources>

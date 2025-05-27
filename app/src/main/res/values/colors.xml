@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary_button">#2196F3</color>
+    <color name="primary_button_dark">#1976D2</color>
+
+    <!-- Text colors -->
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <!-- Background colors -->
+    <color name="home_background">#F5F5F5</color>
+    <color name="onboarding_background">#FFFFFF</color>
+
+    <!-- Additional colors -->
+    <color name="button_text">#FFFFFF</color>
+    <color name="surface_color">#FFFFFF</color>
+</resources>
